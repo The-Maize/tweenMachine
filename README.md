@@ -1,9 +1,7 @@
 # TweenMachine 3.0.3
 
 
-PYTHON 3 VERSION AVAILABLE. 
-
-
+PYTHON 3 NOW VERSION AVAILABLE.
 
 
 ---------------------
@@ -33,14 +31,15 @@ other methods. You spend less time with busywork and more time making actual pro
 Tween Machine was originally developed by [Justin Barrett](http://www.justinsbarrett.com/) and used extensively throughout
 the animation and visual effects industries for years. 
 
-Development was taken over by [Alex Widener](https://github.com/alexwidener) in February 2018. 
+Development was taken over by [Alex Widener](https://github.com/alexwidener) in February 2018.EDIT As of 2022-02-25- Alex's Git hub is no longer available i have done my best to contact in order for a mains pull. Now how ever the software is available here. all correct and upto date contribution attributions are in place. 
+
 
 | Contribution                     | Author                                              |
 |----------------------------------|-----------------------------------------------------|
 |tweenMachine.mel/ tweenMachine.py | [Justin S. Barrett](http://www.justinsbarrett.com/) |
 |xml_lib.mel                       | J. Adrian Herbez                                    |
 |Maya Shelf Icon                   | [Keith Lango](http://keithlango.squarespace.com/)   |
-
+|Python Conversion                 | [theMaize](https://github.com/The-Maize)            |
 
 ## Updates
 Subscribe to very infrequent and non-spammy email updates about new versions [at this link](https://github.us18.list-manage.com/subscribe?u=21f14bb7b1c884b7f2d517b57&id=a966b6ab32).
@@ -49,7 +48,6 @@ Subscribe to very infrequent and non-spammy email updates about new versions [at
 
 Animators: Do not copy the file listed directly above, as tweenMachine is in active development and will be for the next few weeks. Instead, go to the [Releases](https://github.com/alexwidener/tweenMachine/releases) tab above the files, and download version 3.0.0.
 
-Version 3.1.0 will come out at some point and be a restructure/rewrite/with many new features and a new look. Please check back for updates. 
 
 ### Windows:
 
