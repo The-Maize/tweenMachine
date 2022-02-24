@@ -1,4 +1,10 @@
-# TweenMachine
+# TweenMachine 3.0.3
+
+
+PYTHON 3 VERSION AVAILABLE. 
+
+
+
 
 ---------------------
 ### The easiest way to create breakdown poses in Maya
