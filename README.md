@@ -39,10 +39,9 @@ Development was taken over by [Alex Widener](https://github.com/alexwidener) in 
 |tweenMachine.mel/ tweenMachine.py | [Justin S. Barrett](http://www.justinsbarrett.com/) |
 |xml_lib.mel                       | J. Adrian Herbez                                    |
 |Maya Shelf Icon                   | [Keith Lango](http://keithlango.squarespace.com/)   |
-|Python Conversion                 | [theMaize](https://github.com/The-Maize)            |
+|Python 3 Conversion                 |[Wade Schneider](https://github.com/The-Maize)            |
 
-## Updates
-Subscribe to very infrequent and non-spammy email updates about new versions [at this link](https://github.us18.list-manage.com/subscribe?u=21f14bb7b1c884b7f2d517b57&id=a966b6ab32).
+
 
 ## Installation
 
