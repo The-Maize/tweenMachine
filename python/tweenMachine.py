@@ -479,7 +479,7 @@ class TMWindowUI(object):
         mc.evalDeferred("import maya.cmds as mc")
         # Check for updates
         if SETTINGS["update_check"]:
-            self.update_check()
+            print("Cannot do operation")
         # First get an instance of the main data class
         self.data = TMData()
         # Test adding a group
@@ -867,19 +867,6 @@ class TMWindowUI(object):
         """
         inactive()
 
-    def update_check(self):
-        """
-        Check for updates (or cancel update when cancel flag is set)
-        """
-        url = "http://www.justinsbarrett.com/tmupdate.php?tmquery=version"
-        link = urllib.request.urlopen(url)
-        if link.getcode() == 200:
-            data = link.read()
-            if data.strip() != __version__:
-                mc.warning("A new version is available")
-            else:
-                print("Versions match")
-        link.close()
 
 
 class TMSetUI(object):
