@@ -2,8 +2,7 @@
 
 
 PYTHON 3 NOW VERSION AVAILABLE.
-Discord Community: https://discord.gg/UjpkDmrdtk
-Facebook Community: 
+
 
 ---------------------
 ### The easiest way to create breakdown poses in Maya
@@ -15,11 +14,12 @@ shows how this would be accomplished both with and without tweenMachine.
 |Manual Process                                  | Tween Machine                                        |
 |------------------------------------------------|------------------------------------------------------|
 |Select all controls on the character            | Select all controls on the character                 |
-|Change interpolation on all key frames to linear | Left-click on frame 7 in the timeline                |
+|Change interpolation on all keyframes to linear | Left-click on frame 7 in the timeline                |
 |Left-click on frame 3 in the timeline           | Adjust a slider in the tweenMachine interface to -70 |
 |Middle-click on frame 7 in the timeline         |                                                      |
 |Set a key                                       |                                                      |
-|Change interpolation on all key frames to stepped|                                                      |
+|Change interpolation on all keyframes to stepped|                                                      |
+
 
 If you’re not happy with the results, you’ve got a lot of steps to repeat if you’re doing it the manual way. With 
 tweenMachine, you simply adjust the slider and see the results immediately.  Better still, if you’ve created a custom
@@ -29,11 +29,10 @@ Will tweenMachine create perfect breakdown poses? Not likely, but it will get yo
 other methods. You spend less time with busywork and more time making actual progress.
 
 Tween Machine was originally developed by [Justin Barrett](http://www.justinsbarrett.com/) and used extensively throughout
-the animation and visual effects industries for years.
+the animation and visual effects industries for years. 
 
-Development was taken over by Alex Widener in February 2018.EDIT As of 2022-02-25- Alex's Git hub is no longer available i have done my best to contact in order for a mains pull. Now how ever the software is available here. all correct and up to date contribution attributions are in place. 
+Development was taken over by [Alex Widener](https://github.com/alexwidener) in February 2018.EDIT As of 2022-02-25- Alex's Git hub is no longer available i have done my best to contact in order for a mains pull. Now how ever the software is available here. all correct and upto date contribution attributions are in place. 
 
-Development has been reassigned to [Wade Schneider](https://github.com/The-Maize) in 2022. Wade is a keen developer, and is working towards a great career in the vfx and animation industry. Currently working towards an animation degree, and is an owner partner in a small games development company [GameSage](gamesageproductions.com).
 
 | Contribution                     | Author                                              |
 |----------------------------------|-----------------------------------------------------|
@@ -42,9 +41,12 @@ Development has been reassigned to [Wade Schneider](https://github.com/The-Maize
 |Maya Shelf Icon                   | [Keith Lango](http://keithlango.squarespace.com/)   |
 |Python 3 Convert & Continued Dev                |[Wade Schneider](https://github.com/The-Maize)            |
 
+
+
 ## Installation
 
-Animators: Do not copy the file listed directly above, as tweenMachine is in active development and will be for the forseeable future. Instead, go to the [Releases](https://github.com/The-Maize/tweenMachine/releases) tab above the files, and download version 3.0.3.
+Animators: Do not copy the file listed directly above, as tweenMachine is in active development and will be for the next few weeks. Instead, go to the [Releases](https://github.com/alexwidener/tweenMachine/releases) tab above the files, and download version 3.0.0.
+
 
 ### Windows:
 
