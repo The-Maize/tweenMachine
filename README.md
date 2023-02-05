@@ -2,8 +2,6 @@
 
 
 PYTHON 3 NOW VERSION AVAILABLE.
-Discord Community: https://discord.gg/UjpkDmrdtk
-Facebook Community: 
 
 ---------------------
 ### The easiest way to create breakdown poses in Maya
@@ -43,8 +41,6 @@ Development has been reassigned to [Wade Schneider](https://github.com/The-Maize
 |Python 3 Convert & Continued Dev                |[Wade Schneider](https://github.com/The-Maize)            |
 
 ## Installation
-
-Animators: Do not copy the file listed directly above, as tweenMachine is in active development and will be for the forseeable future. Instead, go to the [Releases](https://github.com/The-Maize/tweenMachine/releases) tab above the files, and download version 3.0.3.
 
 ### Windows:
 
