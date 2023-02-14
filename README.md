@@ -39,7 +39,7 @@ Development has been reassigned to [Wade Schneider](https://github.com/The-Maize
 |xml_lib.mel                       | J. Adrian Herbez                                    |
 |Maya Shelf Icon                   | [Keith Lango](http://keithlango.squarespace.com/)   |
 |Python 3 Convert & Continued Dev                |[Wade Schneider](https://github.com/The-Maize)            |
-|Zootools Intergration                   | [Andrew Silke](https://create3dcharacters.com)   |
+|Zootools Integration                   | [Andrew Silke](https://create3dcharacters.com)   |
 
 
 ## Installation
