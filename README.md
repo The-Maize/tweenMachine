@@ -1,7 +1,11 @@
 # TweenMachine 3.0.3
+PYTHON 3 VERSION : Maya 2022 ++ 
 
-## Update comming soon with new features!!!
-PYTHON 3 NOW VERSION AVAILABLE.
+Thank you to all the users for the thousands of downloads through gumroad. Any issues with up comming maya releases please feel free to let me know so i can fix them as fast as possible. 
+The goal for this tool is to keep it alive. The best free tweener is one that is uncomplicated and lightweight. 
+
+A complete new version of this was pulled into zootools by Andrew Silke. Andrew is talented and simplyu a great human being. 
+Give his newer more updated version a go if you wish to try his tool. There will be some more additions added to this tool. There has been some upgrades already, how ever they will have to wait for release. Likely to be when maya is updated to 2025. Due to some life circumstances i have not been able to integrate them completely yet. I hope you love this tool as much as i do. Justin has done an amazing job building its original. 
 
 ---------------------
 ### The easiest way to create breakdown poses in Maya
